@@ -6,6 +6,7 @@ This is a bot that quizzes you on pdf notes, done through langchain utilizing th
 To run this, both python and pip must be installed, information on which can be found here:
 
 python: https://www.python.org/downloads/
+
 pip: https://pip.pypa.io/en/stable/installation/
 
 Then, you will need to install the following python packages through your terminal
